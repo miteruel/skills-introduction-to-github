@@ -9,7 +9,13 @@
 
 # Introduction to GitHub
 
-_Get started using GitHub in less than an hour._
+_Empezar a usar  GitHub en menos de una hora?._
+
+Este repositorio es solo una prueba. 
+
+* No es una traduccion del repositorio original
+* No está pensado para usarlo por otras personas. 
+
 
 </header>
 
